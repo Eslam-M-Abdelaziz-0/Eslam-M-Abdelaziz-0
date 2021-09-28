@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YMGYM&fontSize=90)  
   
 
-### **<div align="center">All-stack. Beyond Full-stack</div>**  
+### **<div align="center">Software Engineer</div>**  
   
 
-- ✏️ Interested In : **Machine Learning, Web Backend**   
+- ✏️ Interested In : **Python, Web Backend, Django, DevOps, Machine Learning, C# Desktop Application**   
   
 
-- ☕ Hobby : **Music, Anime, Game, Coffee and Tea**  
+- ☕ Hobby : **Music, Anime, Game, Coffee and Tea, Watching Movies**  
   
 
 - ⚡ Fun project : **Always want to do Exciting project**  
@@ -27,8 +26,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="images/less_logo.png" alt="less" height="50" />
 </div>  
 
 
