@@ -83,6 +83,17 @@
 
 <br/>  
 
+## BIO
+<div>
+    <ul>
+        <li>I am confident in my ability to come up with interesting ideas.</li>
+        <li>I extremely motivated to work on team and learn new skills.</li>
+        <li>I love to learn from other skills and teach others.</li>
+        <li>I Very interested in entrepreneurship.</li>
+    </ul>
+</div>
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -94,18 +105,12 @@
 </a>
 
 </div>  
-  
 
 <br/>  
 
-----
-## BIO
-<div>
-<ul>
-<li>I am confident in my ability to come up with interesting ideas.</li>
-<li>I extremely motivated to work on team and learn new skills.</li>
-<li>I love to learn from other skills and teach others.</li>
-<li>I Very interested in entrepreneurship.</li>
-</ul>
+---
 
- </div>
+### **<div align="center">Some Projects</div>**  
+
+
+---
