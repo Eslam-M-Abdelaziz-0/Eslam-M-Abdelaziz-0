@@ -22,23 +22,24 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="images/less_logo.png" alt="less" height="50" />
+<img style="margin: 10px" src="images/front-end/react.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="images/front-end/bootstrap.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="images/front-end/css3.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="images/front-end/html5.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="images/front-end/javascript.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="images/front-end/less_logo.png" alt="less" height="50" />
 </div>  
 
 
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="images/back-end/python.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="images/back-end/django.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="images/back-end/SQLite.png" alt="SQLite" height="50" />  
+<img style="margin: 10px" src="images/back-end/mysql.svg" alt="MySql" height="50" />  
+<img style="margin: 10px" src="images/back-end/sql.svg" alt="SQL" height="50" />  
+<img style="margin: 10px" src="images/back-end/postgresql.svg" alt="Postgresql" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -47,12 +48,10 @@
 
 ### Machine Learning  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="75" />  
+<img style="margin: 10px" src="images/machine-learning/tensorflow.svg" alt="TensorFlow" height="75" />  
+<img style="margin: 10px" src="images/machine-learning/keras.png" alt="Keras" height="75" />  
+<img style="margin: 10px" src="images/machine-learning/pytorch.svg" alt="pytorch" height="75" />  
+<img style="margin: 10px" src="images/machine-learning/opencv.svg" alt="OpenCV" height="75" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,21 +60,23 @@
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="images/devops/amazonwebservices.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="images/devops/linux.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="images/devops/git.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="images/devops/gnu_bash.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="images/devops/firebase.png" alt="Firebase" height="50" /> 
+<img style="margin: 10px" src="images/devops/docker.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="images/devops/nginx.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="images/devops/apache.svg" alt="apache" height="50" />  
 </div>  
 
 
 
 ### Others  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="images/others/phonegap.svg" alt="Phonegap" height="50" />  
+<img style="margin: 10px" src="images/others/ionic.svg" alt="Ionic" height="50" />  
+<img style="margin: 10px" src="images/others/csharp.svg" alt="C#" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -85,18 +86,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.facebook.com/100006265753691" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.facebook.com/ProEslamM/" target="_blank">
+<img src="images/connect/facebook.svg" width="150px" alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/junjun_alpaka" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/eslam-m-abdelaziz-937a62116/" target="_blank">
+<img src="images/connect/linkedin.png" width="150px" alt="Linked In" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCzfSA7LzVDAQsfKH_s-DW8Q" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/minjunan" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+
 </div>  
   
 
