@@ -98,17 +98,14 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YMGYM&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=YMGYM&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+## BIO
+<div>
+<ul>
+<li>I am confident in my ability to come up with interesting ideas.</li>
+<li>I extremely motivated to work on team and learn new skills.</li>
+<li>I love to learn from other skills and teach others.</li>
+<li>I Very interested in entrepreneurship.</li>
+</ul>
+
+ </div>
