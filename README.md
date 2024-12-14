@@ -100,9 +100,9 @@ Python, Django, FastAPI, and AWS, experienced in designing infrastructure as cod
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam-M-Abdelaziz-0&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=8&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Eslam-M-Abdelaziz-0&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Eslam-M-Abdelaziz-0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam-M-Abdelaziz-0&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=8&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
